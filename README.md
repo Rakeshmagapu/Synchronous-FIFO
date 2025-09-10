@@ -21,3 +21,6 @@ The project demonstrates:
 ---
 
 ## 📂 Repository Structure
+├── fifo.v # RTL design of synchronous FIFO
+├── tb_fifo.v # Testbench file
+└── README.md # Project documentation
