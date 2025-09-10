@@ -1,3 +1,6 @@
+![Synchronous FIFO Banner](assets/Sync_fifo.png)
+
+
 # 🗂️ Synchronous FIFO Design and Verification
 
 ## 📌 Project Overview
